@@ -33,7 +33,7 @@ const Footer = () => (
 
           <div className="xl:w-96 flex justify-end">
             <div className="grid gap-4 lg:w-64 xl:w-72">
-              <h4 className="uppercase">Metode Pembayaran</h4>
+              <h4 className="uppercase">Kênh thanh toán</h4>
 
               <div className="flex gap-4 flex-wrap items-center">
                 {payment.map(({ label, image, url }, index) => (

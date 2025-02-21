@@ -16,7 +16,7 @@ export const destination = [
     image: "/images/destination/bandung.png",
   },
   {
-    title: "Fansifan",
+    title: "Phan Xi-Phăng",
     image: "/images/destination/bogor.jpeg",
   },
   {
