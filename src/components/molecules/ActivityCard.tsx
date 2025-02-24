@@ -123,7 +123,7 @@ const ActivityCard = ({
 
               <div className="w-1 h-1 rounded-full bg-neutral-60" />
 
-              <p className="text-sm">{setShortNumber(orderQantity)} dipesan</p>
+              <p className="text-sm">{setShortNumber(orderQantity)} Đã đặt</p>
             </div>
 
             <div className="flex items-center gap-2">

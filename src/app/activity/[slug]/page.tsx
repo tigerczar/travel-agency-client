@@ -75,7 +75,7 @@ const ActivityDetail = ({ params }: Props) => {
 
               <div className="w-1 h-1 rounded-full bg-neutral-100" />
 
-              <p>{setShortNumber(orderQantity || 0)} dipesan</p>
+              <p>{setShortNumber(orderQantity || 0)} Đã đặt</p>
             </div>
 
             <div className="flex items-center gap-2">
@@ -88,7 +88,7 @@ const ActivityDetail = ({ params }: Props) => {
           <div className="flex items-center gap-2">
             <Bookmark size="medium" />
 
-            <p>Tambahkan ke Wishlist</p>
+            <p>Thêm vào danh sách</p>
           </div>
         </div>
 
@@ -130,7 +130,7 @@ const ActivityDetail = ({ params }: Props) => {
 
           <div className="absolute bottom-4 right-4">
             <button className="py-2 px-4 font-medium rounded-md bg-neutral-10 text-neutral-100 hover:scale-105 duration-200 shadow border border-neutral-100">
-              Galeri foto
+              Thư viện ảnh
             </button>
           </div>
         </div>
