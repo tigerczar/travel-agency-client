@@ -56,7 +56,7 @@ const Navbar = () => (
               style={{
                 objectFit: "contain",
               }}
-              className="text-primary-main border border-neutral-70"
+              className="text-primary-main "
             />
 
             <ChevronDown size="small" />
