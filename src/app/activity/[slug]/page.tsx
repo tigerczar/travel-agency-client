@@ -25,7 +25,7 @@ const ActivityDetail = ({ params }: Props) => {
       <Container className="grid gap-4">
         <div className="flex items-center gap-2 text-lg">
           <a href="/activity" className="underline hover:opacity-50">
-            Aktivitas
+            Hoạt động
           </a>
 
           <ChevronRight size="small" stroke="bold" />
