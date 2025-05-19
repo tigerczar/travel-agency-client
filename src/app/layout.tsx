@@ -15,7 +15,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Travel Agency - web",
   description: "Find your destinations",
-  icons: "/images/logo/apple-icon-180x180.png",
+  icons: "/images/logo/klook-mini.png",
 };
 
 export default function RootLayout({

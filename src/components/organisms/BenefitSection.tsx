@@ -7,7 +7,7 @@ import { benefit } from "@/data/benefit";
 const BenefitSection = () => (
   <section className="section">
     <Container className="grid gap-10">
-      <h1 className="tracking-wide">Vì sao bạn chọn DU LỊCH VIỆT</h1>
+      <h1 className="tracking-wide">Vì sao bạn chọn Travel Agency</h1>
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 items-start">
         {benefit.map(({ title, description, image }, index) => (

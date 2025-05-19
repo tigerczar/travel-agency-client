@@ -63,7 +63,7 @@ const Footer = () => (
     <div>
       <Container className="py-4">
         <p className="text-center text-neutral-80">
-          © {new Date().getFullYear()} Viet Media Travel. All rights reserved.
+          © {new Date().getFullYear()} Travel Agency. All rights reserved.
         </p>
       </Container>
     </div>

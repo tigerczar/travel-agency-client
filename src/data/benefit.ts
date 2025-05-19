@@ -8,7 +8,7 @@ export const benefit = [
   {
     title: "Chơi vui, giá tốt",
     description:
-      "Trải nghiệm chất lượng với giá tốt. Tích luỹ Du Lịch Việt xu để được thêm ưu đãi.",
+      "Trải nghiệm chất lượng với giá tốt. Tích luỹ Travel Agency xu để được thêm ưu đãi.",
     image: "/images/benefit/benefit_2.webp",
   },
   {

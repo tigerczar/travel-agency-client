@@ -1,6 +1,6 @@
 export const footer = [
   {
-    title: 'Vể Du Lịch Việt',
+    title: 'Vể Travel Agency',
     menus: [
       {
         label: 'Về chúng tôi',
@@ -36,7 +36,7 @@ export const footer = [
         url: '/abous_us',
       },
       {
-        label: 'Hợp tác với Du Lịch Việt',
+        label: 'Hợp tác với Travel Agency',
         url: '/abous_us',
       },
     ],
