@@ -23,7 +23,7 @@ const Navbar = () => (
       <Container className="h-[4.5rem] flex items-center justify-between gap-4">
         <Link href="/" className="cursor-pointer">
           <Image
-            src="/images/logo/klook-logo-original.png"
+            src="/images/logo/logo-dlv-new.png"
             alt="Klook"
             width={124}
             height={32}
